@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "carName": "Mercedes",
+      "carDescription": "Maybach",
+      "carImage": "https://cdn.pixabay.com/photo/2022/01/16/16/17/mercedes-amg-gt-4-door-coupe-6942525_1280.jpg",
+      "carPrice": "34404",
+      "id": 2
+    },
+    {
+      "carName": "Jeep",
+      "carDescription": "Best Jeep in the world ",
+      "carImage": "https://cdn.pixabay.com/photo/2015/07/06/11/32/jeep-833206_640.jpg",
+      "carPrice": "6000",
+      "id": 3
+    },
+    {
+      "carName": "BMW",
+      "carDescription": "Best BMW",
+      "carImage": "https://cdn.pixabay.com/photo/2016/02/22/20/22/bmw-1216469_640.jpg",
+      "carPrice": "8000",
+      "id": 4
+    },
+    {
+      "carName": "VolkWagen",
+      "carDescription": "Best VW in the world",
+      "carImage": "https://cdn.pixabay.com/photo/2019/02/23/19/28/vw-4016326_640.jpg",
+      "carPrice": "5000",
+      "id": 5
+    }
+  ]
+}
